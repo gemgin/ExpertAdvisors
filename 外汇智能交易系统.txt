@@ -1,0 +1,34 @@
+MetaTrader 4：外汇交易软件，类似我们股票软件。
+ 
+EA ： Expert Advisors 的英文缩写，中文意思专家顾问，俗称智能交易系统，就是由电脑模拟交易员的下单操作进行机器自动交易的过程，EA相当于是MT4辅助脚本。
+ 
+MQL4：MetaQuotes Language 4的英文缩写，一种新的内置型程序用来编写EA的语言
+ 
+编译环境：MetaTrader 4 自带的MetaEditor
+
+
+MetaTrader 4下载地址：
+
+http://files.metaquotes.net/metaquotes.software.corp/mt4/mt4setup.exe
+
+MetaQuotes Language 4 帮助文档：
+http://docs.mql4.com/
+
+自己写的文章：
+EA的一些思考：
+http://ctfysj.blog.hexun.com/29035922_d.html
+
+最全的外汇平台资料大全（包括开户金额、点差、特色！） --包括外汇投资分析流程图
+http://ctfysj.blog.hexun.com/25424345_d.html
+
+
+
+
+
+市场：
+
+ 
+
+国外
+http://eareview.net/
+
